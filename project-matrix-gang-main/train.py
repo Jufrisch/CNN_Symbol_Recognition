@@ -2,11 +2,9 @@
 Code adapted from: 
 https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48
 
-As part of UF's EEL5840 Final project for handwritten image recongnition
+As part of UF's EEL5840 Final project for handwritten image recognition
 
-Jackson Arnold
 Justin Frisch
-Matt Wein
 '''
 
 import sys
