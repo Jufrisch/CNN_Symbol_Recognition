@@ -12,5 +12,7 @@ Use the train.py file to train the network.
 
 Test the results with the test.py file
 
-Image files not included since they are too large to upload. When using your own images just update for the size differences.
+Image and label files included are a sample due to the size of upload file limits on Github. The original used 23503 images. Here I have trimmed that to 5000.
+
+<img width="551" alt="image" src="https://user-images.githubusercontent.com/89211293/163593353-689308ca-0e41-4df2-8ac4-f2a20a2a6acb.png">
 
